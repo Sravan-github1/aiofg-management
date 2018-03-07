@@ -1,2 +1,2 @@
-# aiofg-usermanagement
-User Management application
+# aiofg-management
+All Management service application
